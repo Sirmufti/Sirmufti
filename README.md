@@ -6,7 +6,6 @@ As a developer, I have passion for creating innovative and effective solutions t
  I’m interested in Backend Development
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate and learn more on Backend Development
-- 📫 How to reach me ...
 - I'm based in Accra, Ghana
 ✉️ You can contact me at learnwithmufti@gmail.com
 🧠 I'm currently learning React.js
