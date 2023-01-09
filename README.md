@@ -8,7 +8,7 @@ As a developer, I have passion for creating innovative and effective solutions t
 - 💞️ I’m looking to collaborate and learn more on Backend Development
 - I'm based in Accra, Ghana
 - ✉️ You can contact me at learnwithmufti@gmail.com
-- 🧠 I'm currently learning React.js
+- 🧠 I'm currently learning React.js and Laravel
 
 <!---
 Sirmufti/Sirmufti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
