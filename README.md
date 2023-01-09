@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sirmufti
+- # Hi 👋🏼 My name is Muftaw Wahab Ayinla
+- # Self-Taught Developer
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate and learn more on Backend Development
